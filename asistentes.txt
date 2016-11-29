@@ -4,6 +4,7 @@
 # Ordenados por orden alfabético
 # Formato: Apellidos, Nombre
 
+Belido Lama, Manuel Jesus
 Chávez García, Ramón
 Juan, Jorge
 Reina Martín, Ricardo
